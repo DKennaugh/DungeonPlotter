@@ -1,0 +1,12 @@
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\bin\Debug\Dungeon Sketcher.exe.config
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\bin\Debug\Dungeon Sketcher.exe
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\bin\Debug\Dungeon Sketcher.pdb
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\obj\Debug\Dungeon Sketcher.csprojAssemblyReference.cache
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\obj\Debug\Dungeon_Sketcher.ToolPallet.resources
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\obj\Debug\Dungeon_Sketcher.Window.resources
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\obj\Debug\Dungeon_Sketcher.Properties.Resources.resources
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\obj\Debug\Dungeon Sketcher.csproj.GenerateResource.cache
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\obj\Debug\Dungeon Sketcher.csproj.CoreCompileInputs.cache
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\obj\Debug\Dungeon Sketcher.exe
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\obj\Debug\Dungeon Sketcher.pdb
+C:\Users\Infer\source\repos\Dungeon Sketcher\Dungeon Sketcher\obj\Debug\Dungeon_Sketcher.WindowTool.resources
